@@ -10,27 +10,26 @@ Performing Analysis and Calculations to support kickstarter campaign decision ma
 Below are the various scenarios drawn after analyis of the campaign fundraising trends.
 
 1. Analysis of Outcomes Based on Launch Date
-![Outcomes_Based_on_Launch_Date](path/to/image_name.png).
-
+![image_name](Outcome%20Based%20on%20Launch%20Date.png)
 
 2. Analysis of Outcomes Based on Parent Category
-![Outcomes_Based_on_Launch_Date](path/to/image_name.png).
+
+When we isolate Great Britain, we found that in total, 604 kickstarters campaigns were performed and the theater category is the most successful.
+
+![image_name](Outcome%20Based%20on%20Launch%20Date.png)
 
 
 3. Analysis of Outcomes Based on Subcategory Statistics
-![Outcomes_Based_on_Launch_Date](path/to/image_name.png).
+
+By filterning the USA data campaign, we found that 525 kickstarters campaigns in theater were successful. The chart below highlights the trend.
 
 
-### Challenges and Difficulties Encountered
+![image_name](Subcategory%20chart.png)
 
+## Conclusions
 
+- In the timing outcomes, conducting campaigns in the beggining of the second quarter of the year is proven to be more successfull. December is not recommended to conduct any camapaing. 
 
-## Results
+- The data flows and lack thereof is obvious. There are outliers which which would need to be handled differently. 
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+- The exceprt of the descrpitive analysis highlith the correlation of the stndard deviations and the IQR which are three times in the failed kickstarters. With lack of data, we presume that their related golas were too high.
