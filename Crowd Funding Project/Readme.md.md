@@ -16,7 +16,7 @@ Below are the various scenarios drawn after analyis of the campaign fundraising 
 
 When we isolate Great Britain, we found that in total, 604 kickstarters campaigns were performed and the theater category is the most successful.
 
-![image_name](Outcome%20Based%20on%20Launch%20Date.png)
+![image_name](Parent%20Category%20Outcomes.png)
 
 
 3. Analysis of Outcomes Based on Subcategory Statistics
@@ -24,7 +24,7 @@ When we isolate Great Britain, we found that in total, 604 kickstarters campaign
 By filterning the USA data campaign, we found that 525 kickstarters campaigns in theater were successful. The chart below highlights the trend.
 
 
-![image_name](Subcategory%20chart.png)
+![image_name](Subcategory%20Statistics.png)
 
 ## Conclusions
 
