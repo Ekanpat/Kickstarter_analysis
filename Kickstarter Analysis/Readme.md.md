@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-The customer is seeking our support to determine the dfferent factors which will make the fundraising campign successful.
+The customer is seeking our support to determine the different factors which will make the fundraising campaign successful.
 
 ### Purpose
 Performing Analysis and Calculations to support kickstarter campaign decision making. Our analysis will help Louise in having more understanding of campaign from start to finish.
@@ -21,7 +21,7 @@ When we isolate Great Britain, we found that in total, 604 kickstarters campaign
 
 3. Analysis of Outcomes Based on Subcategory Statistics
 
-By filterning the USA data campaign, we found that 525 kickstarters campaigns in theater were successful. The chart below highlights the trend.
+By filtering the USA data campaign, we found that 525 kickstarters campaigns in theater were successful. The chart below highlights the trend.
 
 
 ![image_name](Subcategory%20Statistics.png)
@@ -32,4 +32,4 @@ By filterning the USA data campaign, we found that 525 kickstarters campaigns in
 
 - The data flows and lack thereof is obvious. There are outliers which which would need to be handled differently. 
 
-- The exceprt of the descrpitive analysis highlith the correlation of the stndard deviations and the IQR which are three times in the failed kickstarters. With lack of data, we presume that their related golas were too high.
+- The excerpt of the descriptive analysis highlighted the correlation of the standard deviations and the IQR which are three times in the failed kickstarters. With lack of data, we presume that their related goals were too high.
