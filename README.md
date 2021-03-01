@@ -12,7 +12,7 @@ The project focus on execel mastery with a large dataset. The purpose is to visu
 
 The chart below shows the outcome of the campaign based on the initial goal.
 
-![name-of-you-image](https://github.com/Ekanpat/Kickstarter_analysis/blob/master/Kickstarter-Challenge/Resources/Theater_Outcome_vs_Launch.png?raw=true)
+![Launch_date_outcome](Resources/Outcome%20Based%20on%20Launch%20Date.png)
 
 
 - Two conclusions are considered on the Outcomes based on Launch Date as follows:
@@ -24,7 +24,7 @@ The chart below shows the outcome of the campaign based on the initial goal.
 
 The chart below shows the outcome of the campaign based on the initial goal.
 
-![name-of-you-image](https://github.com/Ekanpat/Kickstarter_analysis/blob/master/Kickstarter-Challenge/Resources/Outcomes_vs_Goals.png?raw=trueOutcomes_vs_Goals.png)
+![Goals_vs_Outcomes](Resources/Outcomes_vs_Goals.png)
 
 - Conclusions of the Outcomes based on Goals
 1. The failure rate is quite important. Pledged vs goals are disparate. We notice that where the amount starts increasing above $1000, a rverse consequence affect the pledged amount. We also notice a 100% failure rate for amount above $50000.
